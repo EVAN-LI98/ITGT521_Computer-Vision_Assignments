@@ -5,19 +5,19 @@ For this assignment：
 
 Softwares:
 
-Anaconda3              (https://www.anaconda.com/products/distribution)
-Colab                  (https://colab.research.google.com/)
-DarkLabe               (https://github.com/darkpgmr/DarkLabel)
-Kinect SDK             (https://www.microsoft.com/en-us/download/details.aspx?id=44561)
-OpenNI SDK             (https://structure.io/openni)
-Nite                   (http://www.openni.org/files/nite/)
-Processing Library     (http://code.google.com/p/simple-openni/downloads/list)
+     Anaconda3              (https://www.anaconda.com/products/distribution)
+     Colab                  (https://colab.research.google.com/)
+     DarkLabe               (https://github.com/darkpgmr/DarkLabel)
+     Kinect SDK             (https://www.microsoft.com/en-us/download/details.aspx?id=44561)
+     OpenNI SDK             (https://structure.io/openni)
+     Nite                   (http://www.openni.org/files/nite/)
+     Processing Library     (http://code.google.com/p/simple-openni/downloads/list)
 
 
 Tools:
 
-Webcam
-Kinect
+     Webcam
+     Kinect
 
 -------------------------------------------------------> Installation Tutorial Reference 安装参考教程
 
