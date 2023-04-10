@@ -112,7 +112,7 @@ Form: https://social.msdn.microsoft.com/Forums/windowsdesktop/en-US/bae80fb0-fce
  
  Week2:
  
-![Image text](https://raw.githubusercontent.com/EVAN-LI98/Image-Save-Folder/main/Pictures/ITGT523/week2_1.png?token=GHSAT0AAAAAACBG3QRJB2WTWP5ISJ6AXIT6ZBUPKYA)
+![Image text](https://github.com/EVAN-LI98/Image-Save-Folder/blob/main/Pictures/ITGT523/week2_1.png?raw=true)
 
  Week3:
  
