@@ -106,13 +106,15 @@ Form: https://social.msdn.microsoft.com/Forums/windowsdesktop/en-US/bae80fb0-fce
  
  Week1:
  
-     ![Image text](https://raw.githubusercontent.com/EVAN-LI98/Image-Save-Folder/main/Pictures/ITGT523/week1_1.png?token=GHSAT0AAAAAACBG3QRI4SKGV74PLQNEP7AUZBUPJLA)
-     ![Image text](https://raw.githubusercontent.com/EVAN-LI98/Image-Save-Folder/main/Pictures/ITGT523/week1_3.png?token=GHSAT0AAAAAACBG3QRJMTEDLSQ4463IOJSYZBUPKHQ)
-     ![Image text](https://raw.githubusercontent.com/EVAN-LI98/Image-Save-Folder/main/Pictures/ITGT523/week1_2.png?token=GHSAT0AAAAAACBG3QRIXRKCWPE6BDQ6KIICZBUPJXQ)
+![Image text](https://raw.githubusercontent.com/EVAN-LI98/Image-Save-Folder/main/Pictures/ITGT523/week1_1.png?token=GHSAT0AAAAAACBG3QRI4SKGV74PLQNEP7AUZBUPJLA)
+![Image text](https://raw.githubusercontent.com/EVAN-LI98/Image-Save-Folder/main/Pictures/ITGT523/week1_3.png?token=GHSAT0AAAAAACBG3QRJMTEDLSQ4463IOJSYZBUPKHQ)
+![Image text](https://raw.githubusercontent.com/EVAN-LI98/Image-Save-Folder/main/Pictures/ITGT523/week1_2.png?token=GHSAT0AAAAAACBG3QRIXRKCWPE6BDQ6KIICZBUPJXQ)
  
  Week2:
  
-     ![Image text](https://raw.githubusercontent.com/EVAN-LI98/Image-Save-Folder/main/Pictures/ITGT523/week2_1.png?token=GHSAT0AAAAAACBG3QRJB2WTWP5ISJ6AXIT6ZBUPKYA)
-     
-     ![Image text](https://github.com/EVAN-LI98/Image-Save-Folder/blob/main/Pictures/ITGT523/week3_1_1.png?raw=true)
-     ![Image text]()
+![Image text](https://raw.githubusercontent.com/EVAN-LI98/Image-Save-Folder/main/Pictures/ITGT523/week2_1.png?token=GHSAT0AAAAAACBG3QRJB2WTWP5ISJ6AXIT6ZBUPKYA)
+
+ Week3:
+ 
+![Image text](https://github.com/EVAN-LI98/Image-Save-Folder/blob/main/Pictures/ITGT523/week3_1_1.png?raw=true)
+![Image text]()
