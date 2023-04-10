@@ -104,32 +104,38 @@ Form: https://social.msdn.microsoft.com/Forums/windowsdesktop/en-US/bae80fb0-fce
 
  ========================================  Projects Preview  ========================================
  
- Week1:
+                     所有练习图片素材均来自网络仅做练习使用不做商用如有侵权请联系删除
+ 
+   ===========================================  Week1  ===========================================
  
 ![Image text](https://github.com/EVAN-LI98/Image-Save-Folder/blob/main/Pictures/ITGT523/week1_1.png?raw=true)
 ![Image text](https://github.com/EVAN-LI98/Image-Save-Folder/blob/main/Pictures/ITGT523/week1_4.png?raw=true)
  
- Week2:
+   ===========================================  Week2  ===========================================
  
 ![Image text](https://github.com/EVAN-LI98/Image-Save-Folder/blob/main/Pictures/ITGT523/week2_1.png?raw=true)
 
- Week3:
+   ===========================================  Week3  ===========================================
  
-Act2.4
+ 
+       =========================================================  Act2.4  =========================================================
+ 
 ![Image text](https://github.com/EVAN-LI98/Image-Save-Folder/blob/main/Pictures/ITGT523/week3_1_1.png?raw=true)
 ![Image text](https://github.com/EVAN-LI98/Image-Save-Folder/blob/main/Pictures/ITGT523/week3_1_2.png?raw=true)
 
-Act2.5
+       =========================================================  Act2.5  =========================================================
+     
 ![Image text](https://github.com/EVAN-LI98/Image-Save-Folder/blob/main/Pictures/ITGT523/week3_2_1.png?raw=true)
 ![Image text](https://github.com/EVAN-LI98/Image-Save-Folder/blob/main/Pictures/ITGT523/week3_2_2.png?raw=true)
 
-Act2.6
+       =========================================================  Act2.6  =========================================================
+
 ![Image text](https://github.com/EVAN-LI98/Image-Save-Folder/blob/main/Pictures/ITGT523/week3_3_1.png?raw=true)
 ![Image text](https://github.com/EVAN-LI98/Image-Save-Folder/blob/main/Pictures/ITGT523/week3_3.png?raw=true)
 ![Image text](https://github.com/EVAN-LI98/Image-Save-Folder/blob/main/Pictures/ITGT523/week3_3_2.png?raw=true)
 
 
- Week4:
+   ===========================================  Week4  ===========================================
  
 
  
